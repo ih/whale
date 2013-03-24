@@ -1,3 +1,5 @@
+# To see the plot window, run this program in interactive mode:
+# python -i <name of this .py file>
 import numpy as np
 from scikits.audiolab import Sndfile
 
